@@ -7,7 +7,7 @@ I invite you to explore the code and see how it's structured. Any feedback or su
 
  Key Features:
 
-Styled with ## Tailwind CSS
-## Fully responsive design
-## Clean and maintainable code
+Styled with  *Tailwind CSS*
+*Fully responsive design*
+*Clean and maintainable code*
 Feel free to check out the repository and contribute if you'd like! 
